@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Component Architecture</string>
+
+    <string-array name="City">
+        <item>Mumbai</item>
+        <item>Delhi</item>
+        <item>Pune</item>
+    </string-array>
+</resources>
